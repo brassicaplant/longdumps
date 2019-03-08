@@ -12,6 +12,6 @@ Fonts
 ------------
 ZCOOL QingKe HuangYou
 Roboto Mono
-<link href="https://fonts.googleapis.com/css?family=Roboto+Mono|ZCOOL+QingKe+HuangYou" rel="stylesheet"> 
+/* <link href="https://fonts.googleapis.com/css?family=Roboto+Mono|ZCOOL+QingKe+HuangYou" rel="stylesheet">  */
 
 
